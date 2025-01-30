@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+h1 {
+  color: #36502c;
+}
+
+p {
+  width: 50%;
+}
+
+img {
+  width: 600px;
+  border-radius: 8px;
+}
+
+/* Styling for button */
+button {
+  width: 300px;
+  padding: 24px;
+  border-color: #36502c;
+  border-radius: 5px;
+}
+
+.Places {
+  padding: 24px;
+  align-items: center;
+}
